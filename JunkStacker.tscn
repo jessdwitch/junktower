@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Panel" type="Panel" parent="."]
+margin_right = 1025.0
+margin_bottom = 607.0
+__meta__ = {
+"_edit_group_": true,
+"_edit_use_anchors_": false
+}
